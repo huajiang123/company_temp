@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hondee:common-spring:2.1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hondee/common-spring/2.1.2-SNAPSHOT/common-spring-2.1.2-20190625.023232-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hondee/common-spring/2.1.2-SNAPSHOT/common-spring-2.1.2-20190625.023232-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hondee/common-spring/2.1.2-SNAPSHOT/common-spring-2.1.2-20190625.023232-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
